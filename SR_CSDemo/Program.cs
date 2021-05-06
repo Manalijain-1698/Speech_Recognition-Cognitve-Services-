@@ -8,8 +8,8 @@ namespace SR_CSDemo
 {
     class Program
     {
-        static readonly string SPEECh_SERVICE_KEY = "e7e7a29e12aa43b490c18797e1505f39";
-        static readonly string SPEECh_SERVICE_REGION = "eastus";
+        static readonly string SPEECh_SERVICE_KEY = "Your key";
+        static readonly string SPEECh_SERVICE_REGION = "Your region";
 
         static async Task Main()
         {
